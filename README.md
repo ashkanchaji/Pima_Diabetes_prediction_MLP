@@ -62,7 +62,7 @@ This project consists of two main components:
 ## Project Structure
 
 ```
-CI Project 1/
+Pima_Diabetes_prediction_MLP/
 ├── mytorch/                    # Custom deep learning framework
 │   ├── __init__.py
 │   ├── tensor.py              # Tensor implementation with autograd
