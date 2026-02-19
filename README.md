@@ -175,7 +175,7 @@ class MyModel(Model):
 ```bash
 # Clone the repository
 git clone <repository-url>
-cd "CI Project 1"
+cd "Pima_Diabetes_prediction_MLP"
 
 # Install required packages
 pip install numpy pandas matplotlib scikit-learn
